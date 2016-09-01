@@ -27,5 +27,6 @@ I used [WinPython-32bit-3.4.4.3Qt5](https://sourceforge.net/projects/winpython/f
 * [win32security (from PyWin32)](https://sourceforge.net/projects/pywin32/)
 * [PyInstaller](http://www.pyinstaller.org/) (if you wish to compile)
 
-
+## Disclaimer
+I realize what this tool can be used for. Try not to be a douche, use this as a learning experience ONLY. 
 
