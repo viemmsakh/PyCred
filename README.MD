@@ -1,4 +1,4 @@
-# PyCred v0.0.1
+# PyCred v0.0.2
 ##### A message from the developer
 
 _Frustrated  with tkinter, I wanted to try something else. Enter PyQt. I wrote this quick script up as a way to learn Qt. I am sure the code could be better, inline documentation would probably be nice. Any who...._
@@ -30,3 +30,13 @@ I used [WinPython-32bit-3.4.4.3Qt5](https://sourceforge.net/projects/winpython/f
 ## Disclaimer
 I realize what this tool can be used for. Try not to be a douche, use this as a learning experience ONLY. 
 
+___
+
+## Update Log
+_v0.0.2_
+* Cleaned up some useless comments and spacing.
+* Renamed widigets in PyCred_GUI.ui and regenrated PyCred_GUI.py.
+* Adjusted PyCred.py to match new widget names
+* Added some code that processes the username text box for \ / or @ eg domain\username, domain/username, or username@domain. If domain is ommited then it falls back to env variable.
+* Added inline documentaiton.
+* Re-"compiled" script so Project/dist/PyCred.exe matched the new changes.
